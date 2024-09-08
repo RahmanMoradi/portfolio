@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="h-screen bg-amber-300 flex items-center justify-center">
         <p className='text-center items-center'>
-          Hello, Welcome To Rahman Moradi Personal Website!
+          Hello, Welcome To <b>Rahman Moradi</b> Personal Website!
         </p>
       </div>
     </>
