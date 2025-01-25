@@ -27,7 +27,7 @@ export default function Home() {
         <div className="m-4 mt-16">
           <h1 className="font-semibold text-4xl">Hi, I’m Rahman 👋</h1>
           <p className="mt-2 text-gray-600 text-lg">
-            Im a full stack developer (Next.js & Laravel/Php) with a focus on
+            Im a full stack developer (Next.js /React.js & Laravel/Php) with a focus on
             creating (and occasionally designing) exceptional digital
             experiences that are fast, accessible, visually appealing, and
             responsive. Even though I have been creating web applications for
